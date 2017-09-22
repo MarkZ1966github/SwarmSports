@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document*/
+/*Define the body element's color*/
+body
+{background: #FFFFFF;
+}
+/*This section is for links*/
+a:link
+{font-weight:normal; color: #000000; text-decoration:none;
+}
+a:visited
+{font-weight:normal; color: #cc9f1e; text-decoration:none;
+}
+a:hover
+{font-weight:bold; color: #e5b322; text-decoration:none;
+}
+/*This section is for a paragraph section*/
+p {font-style:normal; font-size:14px;
+}
+div
+{
+font-size:12px;
+}
+/*This section is for the image's black border.*/
+/* img {border-color: #000000; border:thick; border-style:ridge; */
+}
